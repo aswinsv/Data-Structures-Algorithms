@@ -1,0 +1,30 @@
+Test Case:
+
+["MyLinkedList","addAtHead","deleteAtIndex","addAtIndex","addAtHead","addAtTail","addAtTail","deleteAtIndex","addAtTail","addAtIndex","addAtTail","addAtTail","addAtTail","get","addAtHead","addAtIndex","addAtTail","addAtHead","addAtIndex","addAtHead","get","addAtIndex","addAtIndex","addAtTail","deleteAtIndex","addAtTail","addAtIndex","addAtHead","addAtTail","addAtTail","get","deleteAtIndex","addAtTail","deleteAtIndex","get","addAtIndex","deleteAtIndex","get","get","deleteAtIndex","deleteAtIndex","addAtHead","addAtTail","deleteAtIndex","addAtTail","addAtHead","get","addAtHead","addAtHead","get","addAtTail","get","addAtIndex","addAtHead","addAtHead","deleteAtIndex","addAtTail","addAtTail","get","deleteAtIndex","get","get","addAtTail","addAtHead","addAtTail","get","addAtIndex","addAtIndex","deleteAtIndex","addAtTail","addAtHead","addAtTail","addAtTail","addAtTail","addAtHead","addAtTail","addAtTail","addAtHead","get","addAtTail","get","addAtHead","addAtHead","addAtHead","get","get","addAtHead","get","get","get","addAtHead","deleteAtIndex","deleteAtIndex","addAtTail","addAtIndex","deleteAtIndex","get","addAtTail","addAtIndex","addAtIndex","deleteAtIndex","addAtIndex"]
+[[],[34],[1],[1,20],[7],[21],[70],[3],[54],[3,35],[33],[84],[83],[7],[8],[7,49],[88],[63],[5,28],[13],[2],[6,15],[8,39],[94],[10],[8],[2,51],[67],[4],[21],[6],[17],[66],[7],[20],[16,81],[3],[6],[11],[8],[10],[92],[73],[3],[33],[94],[13],[99],[87],[17],[68],[18],[4,90],[61],[43],[14],[54],[43],[16],[8],[3],[26],[83],[3],[62],[17],[5,12],[21,37],[22],[2],[6],[50],[15],[4],[88],[73],[44],[1],[2],[89],[16],[91],[17],[76],[22],[26],[33],[44],[22],[29],[93],[27],[40],[65],[38,78],[42],[44],[32],[26,34],[24,22],[43],[46,62]]
+
+
+Output:
+[null,null,null,null,null,null,null,null,null,null,null,null,null,83,null,null,null,null,null,null,8,null,null,null,null,null,null,null,null,null,21,null,null,null,-1,null,null,15,49,null,null,null,null,null,null,null,88,null,null,8,null,4,null,null,null,null,null,null,83,null,99,43,null,null,null,88,null,null,null,null,null,null,null,null,null,null,null,null,6,null,15,null,null,null,84,8,null,89,33,21,null,null,null,null,null,null,65,null,null,null,null,null]
+
+
+Actual Output:
+[null,null,null,null,null,null,null,null,null,null,null,null,null,84,null,null,null,null,null,null,8,null,null,null,null,null,null,null,null,null,34,null,null,null,66,null,null,15,49,null,null,null,null,null,null,null,83,null,null,94,null,8,null,null,null,null,null,null,84,null,99,54,null,null,null,83,null,null,null,null,null,null,null,null,null,null,null,null,6,null,15,null,null,null,33,94,null,44,54,4,null,null,null,null,null,null,89,null,null,null,null,null]
+
+
+
+
+["MyLinkedList","addAtHead","deleteAtIndex","addAtIndex","addAtHead","addAtTail","addAtTail","deleteAtIndex","addAtTail","addAtIndex","addAtTail","addAtTail","addAtTail","get"]
+[[],[34],[1],[1,20],[7],[21],[70],[3],[54],[3,35],[33],[84],[83],[7]
+
+
+
+Expected:
+[null,null,null,null,null,null,null,null,null,null,null,null,null,83]
+
+
+Actual Output:
+[null,null,null,null,null,null,null,null,null,null,null,null,null,84]
+
+
+
